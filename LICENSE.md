@@ -1,4 +1,4 @@
-# 
+# Instantané AI Code Review Assistant préréglages. Avec intégration de chatbot et entraînement de modèles — optimisé pour des performances maximales.
 
 
 
